@@ -1,0 +1,20 @@
+{
+  "name": "com.mercucode.mutera",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "animejs": "^3.2.1",
+    "bootstrap": "^5.2.2",
+    "vite": "^3.2.3"
+  },
+  "dependencies": {
+    "@vitejs/plugin-basic-ssl": "^0.1.2",
+    "vite-plugin-mkcert": "^1.10.1"
+  }
+}
